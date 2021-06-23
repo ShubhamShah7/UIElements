@@ -23,7 +23,7 @@ This is college Assignment to demonstrate the following UIElements
 </ol>
 
 ## Requirements
-iOS 14.0 and above
+iOS 14.0 and above<br>
 Xcode 11.0 and above
 
 ## SnapShots
